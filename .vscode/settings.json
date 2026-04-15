@@ -1,0 +1,18 @@
+{
+  "material-icon-theme.folders.associations": {
+    "7CCSMCIS-Cryptography": "secure",
+    "7CCSMNSE-Network Security": "connection",
+    "7CCSMASE-Software Measurement": "tune",
+    "7CCSMCFC-Computer Forensics": "log",
+    "7CCSMDLC-Distributed Ledgers": "database",
+    "7CCSMPRJ-Individual Project": "project",
+    "Modules": "app",
+    "Optional": "include",
+    "Revision": "review",
+    "Compulsory": "core",
+    "Cyber Security MSc": "class",
+    "7CCSMSEM-Security Management": "admin",
+    "7CCSMSTE-Security Testing": "test",
+    "7CCSMSEN-Security Engineering": "tools"
+  }
+}
