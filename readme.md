@@ -63,12 +63,17 @@ The Individual Project = **33.3%** of the final degree.
 
 ## Optional Modules (Choose Two)
 
-| Module                           | Code     | Credits | Semester | Assessment             |
-| :------------------------------- | :------- | :-----: | :------: | :--------------------- |
-| Distributed Ledgers and Crypto   | 7CCSMDLC |   15    |  Spring  | Coursework + Practical |
-| Software Measurement and Testing | 7CCSMASE |   15    |  Autumn  | 85% Exam / 15% CW      |
+You pick 30 credits (two modules) from a list of optionals. KCL shares electives across its Informatics MSc programmes, so the available pool is wider than just cybersecurity-specific modules. The exact list for 2026/27 will be confirmed at enrolment, but the following have appeared as options for MSc Cyber Security students in recent years:
 
-> Other optional modules may be available depending on the year, these are the two that were specifically researched.
+| Module                           | Code     | Credits | Semester | Assessment             | Notes                                     |
+| :------------------------------- | :------- | :-----: | :------: | :--------------------- | :---------------------------------------- |
+| Machine Learning                 | 7CCSMMML |   15    |  Spring  | Exam + Coursework      | Maths-heavy, shares with AI MSc           |
+| Distributed Ledgers and Crypto   | 7CCSMDLC |   15    |  Spring  | Coursework + Practical | Blockchain, consensus, smart contracts    |
+| Software Measurement and Testing | 7CCSMASE |   15    |  Autumn  | 85% Exam / 15% CW      | White/black-box testing, coverage metrics |
+| Big Data Technologies            | 7CCSMBDT |   15    |    —     | Not confirmed          | Data pipelines, MapReduce, analytics      |
+| Agents and Multi-Agent Systems   | 7CCSMAMS |   15    |  Autumn  | Not confirmed          | Shared with Advanced Computing MSc        |
+
+> This list is based on publicly available information and may not be exhaustive. Some modules from the wider Informatics catalogue (e.g., Nature-Inspired Learning, AI Planning) may also be selectable subject to timetabling and programme director approval. The definitive list is provided during module selection in September.
 
 ---
 
@@ -82,8 +87,8 @@ Security Management  █████████░░░░░░░░░░�
 Security Testing     █████████░░░░░░░░░░░░░░░░░░░░░░░░░   8.3%
 Network Security     █████████░░░░░░░░░░░░░░░░░░░░░░░░░   8.3%
 Forensics            █████████░░░░░░░░░░░░░░░░░░░░░░░░░   8.3%
-Optional 1           █████████░░░░░░░░░░░░░░░░░░░░░░░░░   8.3%
-Optional 2           █████████░░░░░░░░░░░░░░░░░░░░░░░░░   8.3%
+Optional A           █████████░░░░░░░░░░░░░░░░░░░░░░░░░   8.3%
+Optional B           █████████░░░░░░░░░░░░░░░░░░░░░░░░░   8.3%
 ```
 
 ---
@@ -166,3 +171,5 @@ Topic selection works in three ways: picking from a staff-proposed list, proposi
 | Pass           | 50–59%    |
 
 ---
+
+_Last updated: April 2026_
