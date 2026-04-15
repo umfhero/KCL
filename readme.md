@@ -17,15 +17,58 @@ A quick-reference guide for anyone starting the MSc Cyber Security at King's Col
 
 ---
 
-## Academic Calendar
+## 2026-27 Academic Calendar
 
-| Period            | Dates (approx.)     | What happens                                      |
-| :---------------- | :------------------ | :------------------------------------------------ |
-| Welcome Week      | w/c 21 Sep 2026     | Induction, enrolment, faculty sessions            |
-| Autumn Semester   | Sep – Dec 2026      | Cryptography, Security Engineering, Security Mgmt |
-| Winter Break      | Dec 2026 – Jan 2027 |                                                   |
-| Spring Semester   | Jan – Apr 2027      | Network Security, Security Testing, Forensics     |
-| Project Execution | May – Sep 2027      | Individual Project write-up and submission        |
+**Academic Year:** Tuesday 1 September 2026 - Tuesday 31 August 2027
+
+### International Student Welcome
+
+Wednesday 16 – Friday 18 September 2026
+
+A bespoke event for international students to help you settle in to life at King’s and in London. More information will be available on the Welcome to King's app from mid-August 2026.
+
+### Welcome to King's
+
+Monday 14 – Friday 25 September 2026
+
+Week one will mainly be online and week two will be on-campus. Your faculty is likely to hold mandatory induction sessions during week two (Monday 21 – Friday 25 September) which will provide key information for starting your course. If you’re arriving after your induction, please get in touch with your faculty or department.
+
+There will be other in-person activities taking place during this week to help you settle into King's. More information will be available on the Welcome to King's app from mid-August 2026.
+
+Faculties may hold welcome sessions for some programmes outside of this period.
+
+### Teaching dates
+
+**Semester 1**
+
+- **Teaching:** Monday 28 September - Friday 11 December 2026
+- **Teaching/Revision:** Monday 14 December - Friday 18 December 2026
+
+**Semester 2**
+
+- **Teaching:** Monday 25 January - Thursday 25 March 2027
+- **Teaching/Revision:** Monday 19 April - Friday 7 May 2027
+
+### Reading weeks
+
+If your programme has reading weeks, they will normally be:
+
+- Monday 2 November – Friday 6 November 2026
+- Monday 1 March – Friday 5 March 2027
+
+### Assessment periods
+
+- **Period 1:** Monday 11 January - Friday 22 January 2027
+- **Period 2:** Monday 10 May - Friday 4 June 2027
+- **Period 3:** Monday 9 August - Friday 20 August 2027
+
+These are the university’s established assessment periods during which most UG and PGT examinations will be held. However, not all students will have examinations during each period. Please check with your faculty for further information and refer to our article on the exam timetable.
+
+### Attendance & holidays
+
+- Normal hours of operation are 08.00 – 18.00. These are the times in which you should expect teaching, learning and assessment activities to be timetabled.
+- If you are a Postgraduate Taught (PGT) student, you are expected to work on your dissertation/project throughout the summer.
+- If you are a Postgraduate Research (PGR) student, should agree vacations in writing with your supervisor.
 
 ---
 
