@@ -2,7 +2,7 @@
   "material-icon-theme.folders.associations": {
     "7CCSMCIS-Cryptography": "secure",
     "7CCSMNSE-Network Security": "connection",
-    "7CCSMASE-Software Measurement": "tune",
+    "7CCSMASE-Software Measurement": "coverage",
     "7CCSMCFC-Computer Forensics": "log",
     "7CCSMDLC-Distributed Ledgers": "database",
     "7CCSMPRJ-Individual Project": "project",
@@ -13,6 +13,11 @@
     "Cyber Security MSc": "class",
     "7CCSMSEM-Security Management": "admin",
     "7CCSMSTE-Security Testing": "test",
-    "7CCSMSEN-Security Engineering": "tools"
+    "7CCSMSEN-Security Engineering": "tools",
+    "Big Data Technologies": "server",
+    "Wireless Networks": "connection",
+    "Machine Learning": "python",
+    "Agent Reasoning and Decision Making": "models",
+    "Formal Verification": "secure"
   }
 }
