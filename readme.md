@@ -205,6 +205,20 @@ Topic selection works in three ways: picking from a staff-proposed list, proposi
 
 ---
 
+## KCL Libraries
+
+| Library                               | Google Maps Address                                        | Approx. Distance from EC1V 8EJ                | 24/7 Access Details (Until 31 May 2026)                                                                  |
+| :------------------------------------ | :--------------------------------------------------------- | :-------------------------------------------- | :------------------------------------------------------------------------------------------------------- |
+| The Maughan Library                   | Chancery Lane, London WC2A 1LR                             | 1.2 miles (25-min walk / 15 mins via bus)     | Yes, fully 24/7.                                                                                         |
+| Franklin-Wilkins Library              | 150 Stamford Street, London SE1 9NH                        | 1.8 miles (40-min walk / 25 mins via tube)    | Yes, fully 24/7.                                                                                         |
+| New Hunt's House Library              | Guy's Campus, Great Maze Pond, London SE1 1UL              | 2.1 miles (45-min walk / 20 mins via tube)    | Yes, fully 24/7.                                                                                         |
+| Wills Library                         | Hodgkin Building, Guy's Campus, London SE1 1UL             | 2.1 miles (45-min walk / 20 mins via tube)    | Yes, fully 24/7.                                                                                         |
+| St Thomas' House Library              | St Thomas' Hospital, Westminster Bridge Rd, London SE1 7EH | 2.4 miles (50-min walk / 30 mins via tube)    | Yes, fully 24/7.                                                                                         |
+| Weston Education Centre (WEC) Library | 10 Cutcombe Rd, London SE5 9RJ                             | 4.5 miles (45 mins via Thameslink/Overground) | Partial. Dedicated computer rooms (1.49-1.52) are 24/7; main library space has restricted staffed hours. |
+| IoPPN Library                         | 16 De Crespigny Park, London SE5 8AF                       | 4.3 miles (45 mins via Thameslink/Overground) | No. Open 09:00 - 01:00 on weekdays; closed on weekends.                                                  |
+
+---
+
 ## Degree Classification Boundaries
 
 | Classification | Threshold |
