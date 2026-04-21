@@ -1,3 +1,15 @@
+## Reading list
+
+From [KCL PG offer holding website:](https://www.kcl.ac.uk/study/postgraduate-taught/offer-holders/subjects/informatics?alp_source=Dynamics%20365%20Customer%20Insights%20-%20Journeys&alp_medium=email&alp_term=N%2FA&alp_campaign=All%20NMES%20-%20Faculty%20Offer%20Holder%20Funnel%20Emails%20-%20Conversion%2025-26&alp_content=PGT%20NMES%20-%20Faculty%20Offer%20Holder%20Funnel%20Email%20-%20Conversion%2025-26)
+
+If you would like to start on some reading or explore some topics this summer here are a few reading and watching suggestions.
+
+- [The Alignment Problem: Machine Learning and Human Values](https://www.goodreads.com/book/show/50489349-the-alignment-problem)
+- [Breaking And Entering: The Extraordinary Story of a Hacker Called "Alien"](https://www.goodreads.com/book/show/37569334-breaking-and-entering)
+- [Extra curricular course: Creative Coding](https://www.possibilityspace.org/cc/)
+
+---
+
 # KCL MSc Cyber Security — Course Overview
 
 A quick-reference guide for anyone starting the MSc Cyber Security at King's College London in September 2026, covering programme structure, credit breakdown, assessment patterns, key dates, and pre-arrival prep priorities.
@@ -207,15 +219,15 @@ Topic selection works in three ways: picking from a staff-proposed list, proposi
 
 ## KCL Libraries
 
-| Library                               | Google Maps Address                                        | Approx. Distance from EC1V 8EJ                | 24/7 Access Details (Until 31 May 2026)                                                                  |
-| :------------------------------------ | :--------------------------------------------------------- | :-------------------------------------------- | :------------------------------------------------------------------------------------------------------- |
-| The Maughan Library                   | Chancery Lane, London WC2A 1LR                             | 1.2 miles (25-min walk / 15 mins via bus)     | Yes, fully 24/7.                                                                                         |
-| Franklin-Wilkins Library              | 150 Stamford Street, London SE1 9NH                        | 1.8 miles (40-min walk / 25 mins via tube)    | Yes, fully 24/7.                                                                                         |
-| New Hunt's House Library              | Guy's Campus, Great Maze Pond, London SE1 1UL              | 2.1 miles (45-min walk / 20 mins via tube)    | Yes, fully 24/7.                                                                                         |
-| Wills Library                         | Hodgkin Building, Guy's Campus, London SE1 1UL             | 2.1 miles (45-min walk / 20 mins via tube)    | Yes, fully 24/7.                                                                                         |
-| St Thomas' House Library              | St Thomas' Hospital, Westminster Bridge Rd, London SE1 7EH | 2.4 miles (50-min walk / 30 mins via tube)    | Yes, fully 24/7.                                                                                         |
-| Weston Education Centre (WEC) Library | 10 Cutcombe Rd, London SE5 9RJ                             | 4.5 miles (45 mins via Thameslink/Overground) | Partial. Dedicated computer rooms (1.49-1.52) are 24/7; main library space has restricted staffed hours. |
-| IoPPN Library                         | 16 De Crespigny Park, London SE5 8AF                       | 4.3 miles (45 mins via Thameslink/Overground) | No. Open 09:00 - 01:00 on weekdays; closed on weekends.                                                  |
+| Library                               | Google Maps Address                                        | 24/7 Access Details (Until 31 May 2026)                                                                  |
+| :------------------------------------ | :--------------------------------------------------------- | :------------------------------------------------------------------------------------------------------- |
+| The Maughan Library                   | Chancery Lane, London WC2A 1LR                             | Yes, fully 24/7.                                                                                         |
+| Franklin-Wilkins Library              | 150 Stamford Street, London SE1 9NH                        | Yes, fully 24/7.                                                                                         |
+| New Hunt's House Library              | Guy's Campus, Great Maze Pond, London SE1 1UL              | Yes, fully 24/7.                                                                                         |
+| Wills Library                         | Hodgkin Building, Guy's Campus, London SE1 1UL             | Yes, fully 24/7.                                                                                         |
+| St Thomas' House Library              | St Thomas' Hospital, Westminster Bridge Rd, London SE1 7EH | Yes, fully 24/7.                                                                                         |
+| Weston Education Centre (WEC) Library | 10 Cutcombe Rd, London SE5 9RJ                             | Partial. Dedicated computer rooms (1.49-1.52) are 24/7; main library space has restricted staffed hours. |
+| IoPPN Library                         | 16 De Crespigny Park, London SE5 8AF                       | No. Open 09:00 - 01:00 on weekdays; closed on weekends.                                                  |
 
 ---
 
