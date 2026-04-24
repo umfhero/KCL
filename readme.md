@@ -4,8 +4,8 @@ From [KCL PG offer holding website:](https://www.kcl.ac.uk/study/postgraduate-ta
 
 If you would like to start on some reading or explore some topics this summer here are a few reading and watching suggestions.
 
-- [The Alignment Problem: Machine Learning and Human Values](https://www.goodreads.com/book/show/50489349-the-alignment-problem)
-- [Breaking And Entering: The Extraordinary Story of a Hacker Called "Alien"](https://www.goodreads.com/book/show/37569334-breaking-and-entering)
+- [The Alignment Problem: Machine Learning and Human Values](https://www.goodreads.com/book/show/50489349-the-alignment-problem) # Added to repo
+- [Breaking And Entering: The Extraordinary Story of a Hacker Called "Alien"](https://www.goodreads.com/book/show/37569334-breaking-and-entering) # Access through [here](https://www.cliffsnotes.com/study-notes/16669123)
 - [Extra curricular course: Creative Coding](https://www.possibilityspace.org/cc/)
 
 ---
