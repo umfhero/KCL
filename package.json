@@ -1,0 +1,9 @@
+{
+  "name": "kcl-study-space",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {"build": "node scripts/build.mjs", "start": "python -m server.main", "check": "node scripts/check.mjs", "test:overview": "node tests/overview-smoke.mjs"},
+  "dependencies": {"react": "19.2.8", "react-dom": "19.2.8", "lucide-react": "1.41.0", "react-markdown": "10.1.0", "remark-gfm": "4.0.1", "katex": "0.18.5", "@fontsource/dm-sans": "5.3.0"},
+  "devDependencies": {"esbuild": "0.28.2", "typescript": "7.0.2", "@types/react": "19.2.18", "@types/react-dom": "19.2.7"}
+}

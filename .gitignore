@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.local/
+sources/
+__pycache__/
+.pytest_cache/
+*.pyc
+.env
+.env.*
+!.env.example
+*.sqlite*
+test-results/

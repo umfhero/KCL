@@ -1,0 +1,12 @@
+import fs from 'node:fs';
+import path from 'node:path';
+import {createRequire} from 'node:module';
+const root=path.resolve(import.meta.dirname,'..');
+const external=process.env.KCL_NODE_MODULES || path.join(process.env.USERPROFILE || '', 'Desktop','KCL','study-runtime','frontend','node_modules');
+const modules=fs.existsSync(path.join(root,'node_modules','esbuild'))?path.join(root,'node_modules'):external;
+const require=createRequire(path.join(modules,'esbuild','package.json'));
+const esbuild=require('esbuild');
+fs.mkdirSync(path.join(root,'dist'),{recursive:true});
+await esbuild.build({entryPoints:[path.join(root,'app','main.tsx')],bundle:true,outdir:path.join(root,'dist'),nodePaths:[modules],format:'esm',minify:true,sourcemap:true,loader:{'.woff2':'file','.woff':'file','.ttf':'file'},define:{'process.env.NODE_ENV':'"production"'}});
+fs.copyFileSync(path.join(root,'app','index.html'),path.join(root,'dist','index.html'));
+console.log('Built local dashboard.');
